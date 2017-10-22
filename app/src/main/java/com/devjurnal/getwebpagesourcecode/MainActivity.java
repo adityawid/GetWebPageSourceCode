@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
                 CT.execute(URL);
             } else
             {
-                tvOutput.setText("URL Unvalid");
+                tvOutput.setText("URL NOT Valid");
             }
 
         } else
